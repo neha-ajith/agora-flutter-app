@@ -1,4 +1,4 @@
-# agoraapp
+# agora-flutter-app
 
 A basic video call application developed using agora sdk.
 
